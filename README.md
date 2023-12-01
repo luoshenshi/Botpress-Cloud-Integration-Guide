@@ -26,6 +26,8 @@ To obtain the `Authorization` header, you will need to log into [Botpress](https
 1. Click on the profile icon located in the top right corner. If you don't see the profile icon, simply refresh the page.
 2. Navigate to `Personal Access Tokens` and click on `Generate new token` to create a new token. Be sure to save it for later use.
 
+![Image](https://raw.githubusercontent.com/luoshenshi/Botpress-Cloud-Integration-Guide/main/assets/help1.png)
+
 ### Getting x-bot-id
 
 To obtain the `x-bot-id`, follow these steps:
@@ -40,6 +42,8 @@ To obtain the `x-integration-id`, follow these steps:
 
 1. Go to [Botpress](https://app.botpress.cloud/) and click on the `Integration` tab.
 2. Select `Webchat` and in the browser's search bar `https://......integrations/x_integration_id`. Copy the integration ID from the URL.
+
+![Image2](https://raw.githubusercontent.com/luoshenshi/Botpress-Cloud-Integration-Guide/main/assets/help2.png)
 
 ### Getting conversationId and userId
 
