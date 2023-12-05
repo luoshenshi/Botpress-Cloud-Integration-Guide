@@ -29,7 +29,7 @@ To obtain the `x-bot-id`, follow these steps:
 3. Select `Configurable` and locate the script code. Copy the `botId` from the script.
 
 ### Download this Git Repo
-1. Download this git repository
+1. Download this git repository by `git clone https://github.com/luoshenshi/Botpress-Cloud-Management.git`
 2. Go to public > js > script.js
 3. In headers paste your `Authorization` and `x-bot-id`
 4. Run index.js
