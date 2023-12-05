@@ -20,6 +20,8 @@ To obtain the `Authorization` header, you will need to log into [Botpress](https
 1. Click on the profile icon located in the top right corner. If you don't see the profile icon, simply refresh the page.
 2. Navigate to `Personal Access Tokens` and click on `Generate new token` to create a new token. Be sure to save it for later use.
 
+![Image1](https://raw.githubusercontent.com/luoshenshi/Botpress-Cloud-Management/main/assets/help1.png)
+
 ### Getting x-bot-id
 
 To obtain the `x-bot-id`, follow these steps:
